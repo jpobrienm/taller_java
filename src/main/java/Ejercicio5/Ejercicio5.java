@@ -3,8 +3,8 @@ package Ejercicio5;
 public class Ejercicio5 {
     public static void main(String[] args) {
         int i=1;
-        String pares = "";
-        String impares = "";
+        String pares = "Numeros Pares: ";
+        String impares = "Numeros Impares: ";
         while(i <= 100){
             if (i %2 == 0){
                 if (i + 2 > 100){
@@ -24,7 +24,7 @@ public class Ejercicio5 {
             }
             i ++;
         }
-        System.out.println("Los numeros impares entre 1 y 100 son: " + impares);
-        System.out.println("Los numeros pares entre 1 y 100 son: "+ pares);
+        System.out.println(impares);
+        System.out.println(pares);
     }
 }
