@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Äú‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÎ„üÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(¸£ªâ
+M	java:S106."9Replace this use of System.out or System.err by a logger.(‡”Í,
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ûĞÔÍÿÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'java.awt.print.Printable'.(§ ­®ùÿÿÿÿ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¦ã²
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ì‹ñùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úú”üÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÍÛ¯
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùŞË

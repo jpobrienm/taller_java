@@ -1,0 +1,9 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨İÏˆ
+@
+java:S1128"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê
+J
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ
+B
+java:S1128",Remove this unused import 'java.time.Clock'.(ÕıÓÙ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å§ÉÖøÿÿÿÿ
